@@ -8,9 +8,9 @@
         <version>2.2.0.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>midianet</groupId>
+    <groupId>michael1503</groupId>
     <artifactId>carros-api</artifactId>
-    <version>67.0.0</version>
+    <version>1.0.0</version>
     <name>carros-api</name>
     <description>Api de Carros</description>
 
